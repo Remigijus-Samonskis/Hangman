@@ -1,5 +1,4 @@
-# Hangman 🏆
- ``                                
+# Hangman 🏆                                
 | |                                            
 | |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
 | '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
@@ -16,7 +15,7 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
 
 # Game character 🥷
 
-"""
+
   +---+
   |   |
   O   |
@@ -24,8 +23,7 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
  / \  |
       |
 =========
-""",
-    """
+
   +---+
   |   |
   O   |
@@ -33,8 +31,7 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
  /    |
       |
 =========
-""",
-    """
+
   +---+
   |   |
   O   |
@@ -42,16 +39,15 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
       |
       |
 =========
-""",
-    """
+
   +---+
   |   |
   O   |
  /|   |
       |
       |
-=========""",
-    """
+=========
+   
   +---+
   |   |
   O   |
@@ -59,8 +55,7 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
       |
       |
 =========
-""",
-    """
+
   +---+
   |   |
   O   |
@@ -68,8 +63,7 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
       |
       |
 =========
-""",
-    """
+
   +---+
   |   |
       |
@@ -77,7 +71,7 @@ The player guessing the word may, at any time, attempt to guess the whole word. 
       |
       |
 =========
-"""
+
 
 # Using VS CODE 💻
 
